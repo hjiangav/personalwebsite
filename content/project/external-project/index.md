@@ -1,12 +1,6 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
-tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+title: Second order accurate particle-in-cell discretization of the Navier-Stokes equations
+summary: A particle-in-cell scheme for fluid simulation that is second-order accurate in both space and time, with less noise and energy dissipation than previous methods. Submitted to Journal of Computational Physics (JCP).
 
 image:
   caption: Photo by Toa Heftiba on Unsplash

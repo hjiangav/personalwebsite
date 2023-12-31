@@ -11,7 +11,7 @@ image:
   focal_point: Smart
 
 links:
-    name: Project Website
+  - name: Project Website
     url: https://hjiangav.github.io/inpaint4dnerf
 
 # Slides (optional).
