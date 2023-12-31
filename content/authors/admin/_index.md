@@ -31,10 +31,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:hjiangav@connect.ust.hk
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/hjiangav
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -46,5 +46,5 @@ social:
 highlight_name: true
 ---
 
-I am Han Jiang, a final year undergraduate student at Hong Kong University of Science and Technology, with major in computer science and mathematics. During undergraduate research, I have been supervised by Prof. Chi-Keung Tang and Prof. Yu-Wing Tai on neural radiance fields (NeRF), and Prof. Craig Schroeder on physics simulation. My research interest is on Physics-based Animation, including (1) numerical computation and computational physics, and (2) AI and machine learning for simulation.
+I am Han Jiang, a final year undergraduate student at Hong Kong University of Science and Technology, with major in computer science and mathematics. During undergraduate research, I have been supervised by [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/) on neural radiance fields (NeRF), and [Prof. Craig Schroeder](https://www.cs.ucr.edu/~craigs/) on physics simulation. My research interest is on Physics-based Animation, including (1) numerical computation and computational physics, and (2) AI and machine learning for simulation.
 {style="text-align: justify;"}
