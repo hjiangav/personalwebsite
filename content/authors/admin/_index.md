@@ -10,68 +10,19 @@ last_name: Jiang
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student at HKUST
+role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Hong Kong University of Science and Technology
     url: https://hkust.edu.hk/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests is everything.
-
-# Interests to show in About widget
-interests:
-  - Physics-based Animation
-  - aa
-  - bb
-
 # Education to show in About widget
 education:
   courses:
     - course: BSc in Computer Science and Mathematics
       institution: Hong Kong University of Science and Technology
-      year: 2020-2024 (expected)
-
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+      year: 2024 (expected)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -81,21 +32,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -107,5 +46,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Han Jiang, a final year undergraduate student at Hong Kong University of Science and Technology, with major in computer science and mathematics. During undergraduate research, I have been supervised by Prof. Chi-Keung Tang and Prof. Yu-Wing Tai on neural radiance fields (NeRF), and Prof. Craig Schroeder on physics simulation. My research interest is on Physics-based Animation, including (1) numerical computation and computational physics, and (2) AI and machine learning for simulation.
 {style="text-align: justify;"}
