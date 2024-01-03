@@ -46,5 +46,5 @@ social:
 highlight_name: true
 ---
 
-I am Han Jiang, a final year undergraduate student at Hong Kong University of Science and Technology, with major in computer science and mathematics. During undergraduate research, I have been supervised by [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/) on neural radiance fields (NeRF), and [Prof. Craig Schroeder](https://www.cs.ucr.edu/~craigs/) on physics simulation. My research interest is on Physics-based Animation, including (1) numerical computation and computational physics, and (2) AI and machine learning for simulation.
+I am Han Jiang, a final year undergraduate student at Hong Kong University of Science and Technology, with major in computer science and mathematics. During undergraduate research, I have been supervised by [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/) on neural radiance fields (NeRF), and [Prof. Craig Schroeder](https://www.cs.ucr.edu/~craigs/) on physics simulation. My research interest is on Physics-based Animation, including (1) numerical computation and computational physics, and (2) AI and machine learning for simulation, for example, combining simulation and NeRF.
 {style="text-align: justify;"}
