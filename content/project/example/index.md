@@ -10,3 +10,5 @@ image:
 links:
   - name: Project Website
     url: https://hjiangav.github.io/inpaint4dnerf
+
+---
