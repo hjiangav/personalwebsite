@@ -1,13 +1,8 @@
 ---
-title: "Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models"
+title: "Second order accurate particle-in-cell discretization of the Navier-Stokes equations"
 authors:
 - admin
 - Craig Schroeder
-
-author_notes:
-  - 'Equal Contribution'
-  - 'Equal Contribution'
-  - 'Equal Contribution'
 
 #date: "2019-04-07T00:00:00Z"
 #doi: ""
