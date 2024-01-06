@@ -1,7 +1,17 @@
 ---
-title: "An example preprint / working paper"
+title: "Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models"
 authors:
 - admin
+- Haosen Sun
+- Ruoxuan Li
+- Chi-Keung Tang
+- Yu-Wing Tai
+
+author_notes:
+  - 'Equal Contribution'
+  - 'Equal Contribution'
+  - 'Equal Contribution'
+
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -27,21 +37,20 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+- name: Project Website
+  url: http://inpaint4dnerf.github.io/
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
@@ -50,15 +59,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+#projects:
+#- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
