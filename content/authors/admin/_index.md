@@ -10,19 +10,22 @@ last_name: Jiang
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Hong Kong University of Science and Technology
-    url: https://hkust.edu.hk/
+  - name: The University of Texas at Austin
+    url: https://www.utexas.edu/
 
 # Education to show in About widget
 education:
   courses:
+    - course: PhD student, computer science
+      institution: The University of Texas at Austin
+      year: 2025-
     - course: BSc in Computer Science and Mathematics
       institution: Hong Kong University of Science and Technology
-      year: 2024 (expected)
+      year: 2020-2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -31,7 +34,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:hjiangav@connect.ust.hk
+    link: mailto:han.jiang@utexas.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/hjiangav
@@ -46,5 +49,5 @@ social:
 highlight_name: true
 ---
 
-I am Han Jiang, a final year undergraduate student at Hong Kong University of Science and Technology, with major in computer science and mathematics. During undergraduate research, I have been supervised by [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/) on neural radiance fields (NeRF), and [Prof. Craig Schroeder](https://www.cs.ucr.edu/~craigs/) on physics simulation. My research interest is on Physics-based Animation, including (1) numerical computation and computational physics, and (2) AI and machine learning for simulation, for example, combining simulation and NeRF.
+I am Han Jiang, a first year PhD student in computer graphics at the University of Texas at Austin, advised by [Prof. Etienne Vouga](https://www.cs.utexas.edu/~evouga/). I had a Bachelor's degree of Computer Science and Mathematics, from the Hong Kong University of Science and Technology. During undergraduate years, I have been supervised by [Prof. Chi-Keung Tang](https://cse.hkust.edu.hk/~cktang/) and [Prof. Yu-Wing Tai](https://yuwingtai.github.io/) on neural radiance fields (NeRF), and [Prof. Craig Schroeder](https://www.cs.ucr.edu/~craigs/) on physics simulation.
 {style="text-align: justify;"}
