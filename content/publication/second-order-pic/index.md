@@ -16,20 +16,20 @@ publishDate: "2023-09-01T00:00:00Z"
 #publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-#publication: ""
+publication: "Second order accurate particle-in-cell discretization of the Navier-Stokes equations"
 #publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: A particle-in-cell scheme for fluid simulation that is second-order accurate in both space and time. (Submitted to Journal of Computational Physics (JCP))
+summary: A particle-in-cell scheme for MPM (Material Point Method) fluid simulation that is second-order accurate in both space and time.
 
 #tags:
 #- Source Themes
 featured: false
 
 #links:
-#- name: Project Website
-#  url: http://inpaint4dnerf.github.io/
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+- name: Paper
+  url: https://www.sciencedirect.com/science/article/pii/S0021999124005503
+  url_pdf: https://www.cs.ucr.edu/~craigs/papers/2023-second-order-c/paper.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
