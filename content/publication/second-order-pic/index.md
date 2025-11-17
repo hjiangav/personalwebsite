@@ -4,7 +4,7 @@ authors:
 - admin
 - Craig Schroeder
 
-#date: "2019-04-07T00:00:00Z"
+date: "2024-07-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,11 +13,11 @@ publishDate: "2023-09-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-#publication_types: ["article"]
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Computational Physics, 518, (2024).*
-#publication_short: In *JCP*
+publication_short: In *JCP*
 
 # Summary. An optional shortened abstract.
 summary: A particle-in-cell scheme for MPM (Material Point Method) fluid simulation that is second-order accurate in both space and time.
@@ -29,7 +29,7 @@ featured: false
 links:
 - name: Paper
   url: https://www.sciencedirect.com/science/article/pii/S0021999124005503
-  url_pdf: https://www.cs.ucr.edu/~craigs/papers/2023-second-order-c/paper.pdf
+url_pdf: https://www.cs.ucr.edu/~craigs/papers/2023-second-order-c/paper.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
