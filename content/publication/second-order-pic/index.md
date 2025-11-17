@@ -29,7 +29,8 @@ featured: false
 links:
 - name: Paper
   url: https://www.sciencedirect.com/science/article/pii/S0021999124005503
-url_pdf: https://www.cs.ucr.edu/~craigs/papers/2023-second-order-c/paper.pdf
+- name: PDF
+  url_pdf: https://www.cs.ucr.edu/~craigs/papers/2023-second-order-c/paper.pdf
 - name: Journal of Computational Physics
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
