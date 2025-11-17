@@ -16,8 +16,8 @@ publishDate: "2023-09-01T00:00:00Z"
 #publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Computational Physics, 518, (2024)."
-#publication_short: ""
+publication: In *Journal of Computational Physics, 518, (2024).*
+#publication_short: In *JCP*
 
 # Summary. An optional shortened abstract.
 summary: A particle-in-cell scheme for MPM (Material Point Method) fluid simulation that is second-order accurate in both space and time.
