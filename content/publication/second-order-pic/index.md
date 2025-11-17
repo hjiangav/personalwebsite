@@ -13,7 +13,7 @@ publishDate: "2023-09-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+#publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Computational Physics, 518, (2024).*
@@ -30,6 +30,7 @@ links:
 - name: Paper
   url: https://www.sciencedirect.com/science/article/pii/S0021999124005503
 url_pdf: https://www.cs.ucr.edu/~craigs/papers/2023-second-order-c/paper.pdf
+- name: Journal of Computational Physics
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
