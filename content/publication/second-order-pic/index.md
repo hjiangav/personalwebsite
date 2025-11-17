@@ -16,7 +16,7 @@ publishDate: "2023-09-01T00:00:00Z"
 #publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Second order accurate particle-in-cell discretization of the Navier-Stokes equations"
+publication: "Journal of Computational Physics, 518, (2024)."
 #publication_short: ""
 
 # Summary. An optional shortened abstract.
