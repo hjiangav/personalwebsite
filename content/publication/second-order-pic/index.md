@@ -26,7 +26,7 @@ summary: A particle-in-cell scheme for MPM (Material Point Method) fluid simulat
 #- Source Themes
 featured: false
 
-#links:
+links:
 - name: Paper
   url: https://www.sciencedirect.com/science/article/pii/S0021999124005503
   url_pdf: https://www.cs.ucr.edu/~craigs/papers/2023-second-order-c/paper.pdf
